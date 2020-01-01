@@ -1,6 +1,6 @@
 {
   "newVersion": "1.2",
-  "apkUrl": "s://raw.githubusercontent.com/opisen/Nextzen/master/Android-App/Jis_TeachersApp/v1.1.apk",
+  "apkUrl": "https://github.com/opisen/Nextzen/raw/master/Android-App/Jis_TeachersApp/v1.1.apk",
   "versionNotes": [
     "- Bug fixes"
   ]
