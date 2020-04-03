@@ -1,0 +1,11 @@
+data: [
+{
+location: "Turks and Caicos Islands",
+latitude: 21.694025,
+longitude: -71.797928,
+confirmed: 5,
+dead: 0,
+recovered: 0,
+updated: "2020-04-03 09:40:13.385909+00:00",
+}
+]
