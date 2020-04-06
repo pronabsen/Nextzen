@@ -1,7 +1,22 @@
 hospitals: [
 {
-name: "",
-location: "Turks and Caicos Islands",
-number: 5,
-}
+name: "শেখ রাসেল গ্যাস্ট্রো লিভার ইনস্টিটিউট এবং হাসপাতাল",
+location: "Dhaka 1212",
+number: 028-811-911,
+},
+  {
+name: "কুয়েত-বাংলাদেশ মৈত্রী সরকারি  হাসপাতাল",
+location: "319 Isakha Ave, Dhaka 1230",
+number: 01999-956290,
+},
+  {
+name: "শেখ রাসেল গ্যাস্ট্রো লিভার ইনস্টিটিউট এবং হাসপাতাল",
+location: "Dhaka 1212",
+number: 028-811-911,
+},
+  {
+name: "শেখ রাসেল গ্যাস্ট্রো লিভার ইনস্টিটিউট এবং হাসপাতাল",
+location: "Dhaka 1212",
+number: 028-811-911,
+},
 ]
