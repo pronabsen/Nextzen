@@ -24,7 +24,7 @@ http://100.100.100.14/asports-bengal/index.m3u8
 #EXTINF:-1 tvg-id="TSPORTS SN" tvg-logo="http://100.100.100.2/img/tsports.png" group-title="Sports",TSPORTS SN
 http://100.100.100.14/tsports-sn/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="http://100.100.100.2/img/starsports1.png" group-title="Sports",Star Sports 1#EXTINF:-1 tvg-id="T Sports Bengal" tvg-logo="http://100.100.100.2/img/tsports.png" group-title="Sports",T Sports Bengal
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="http://100.100.100.2/img/starsports1.png" group-title="Sports",Star Sports 1
 http://100.100.100.14/starsports1/index.m3u8http://100.100.100.14/tsports-bengal/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-logo="http://100.100.100.2/img/ten2.png" group-title="Sports",Sony Ten 2
